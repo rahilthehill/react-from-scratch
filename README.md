@@ -38,6 +38,6 @@ react-scripts- common scripts for building/servers/production
 25. However, using VITE intergrates very well, so use that instead :joy:
 
 ### Pros & Cons
-Ever evolving react and libraries, there can be problems with dependencies and such, this is stuff with everything, you don't have to clean up things, but you do have to make sure for the versions are correct etc... 
+Ever evolving react and libraries, there can be problems with dependencies and such, however you don't have to clean up things, you make what you need etc.., this process takes longer, but may avoid bugs and such, but you do have to make sure for the versions are correct etc... might have no benefits with optimization that frameworks like VITE provide for bigger complex projects
 
  
