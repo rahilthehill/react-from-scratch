@@ -35,7 +35,7 @@ react-scripts- common scripts for building/servers/production
 22. Start it now using the terminal by running the `npm run dev`
 23. This will give you a `We're unable to detect target browsers.` warning, it will ask to add defaults, when you are writing the index.js file, the code in transpilled to maximse the compatability, thus react needs to know which browsers to target to create the application web friendly. we don't really care as we are targetting modern browsers, thus, just enter `y`
 24. starts the server and also adds the browser stuff into the package.json, might have to do some changes if you want to support different browsers.
-25. However, using VITE intergrates very well, so use that instead :happy:
+25. However, using VITE intergrates very well, so use that instead :joy:
 
 ### Pros & Cons
 Ever evolving react and libraries, there can be problems with dependencies and such, this is stuff with everything, you don't have to clean up things, but you do have to make sure for the versions are correct etc... 
